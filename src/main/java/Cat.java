@@ -1,6 +1,4 @@
 public class Cat extends Animal {
-
-
     public Cat() {
     }
 
@@ -8,5 +6,6 @@ public class Cat extends Animal {
         super(name, age, color, owner, animelType, weight, breed, sound);
     }
 
-
 }
+
+
