@@ -1,3 +1,5 @@
+package HerenciaAnimal;
+
 public class PetStore {
     public static void main(String[] args) {
         Dog d1 = new Dog("firulais", 2, "miel", "Javier", "dog", 2.3, "Chihuahua","guau");

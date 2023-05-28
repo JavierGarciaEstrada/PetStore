@@ -1,3 +1,5 @@
+package HerenciaAnimal;
+
 public class Cat extends Animal {
     public Cat() {
     }
